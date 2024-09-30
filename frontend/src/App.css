@@ -1,0 +1,13 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    gap: 6px;
+
+    .login-button{
+        background-color: lightblue;
+        
+    }
+}
